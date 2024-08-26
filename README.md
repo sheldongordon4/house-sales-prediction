@@ -18,6 +18,7 @@ The dataset contains house sale prices for King County, which includes Seattle. 
 - Examine feature correlation with target feature (price).
 - Use boxplot and regplot to explore various features against target.
 
+<img width="591" alt="Screenshot 2024-08-26 at 10 33 36" src="https://github.com/user-attachments/assets/dcd5f92a-90f5-496b-8e1a-d2ea7f36c2db">
 
 ### Model Development
 The model was built using Python's scikit-learn linear regression model. The model was training using train-test-split method on housing dataset.
