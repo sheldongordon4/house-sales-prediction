@@ -6,6 +6,7 @@ You are a Data Analyst working at a Real Estate Investment Trust. The Trust woul
 ### Data Sources
 The dataset contains house sale prices for King County, which includes Seattle. It includes homes sold between May 2014 and May 2015.
 [Housing dataset](https://www.kaggle.com/datasets/harlfoxem/housesalesprediction)
+<img width="580" alt="Screenshot 2024-08-26 at 10 43 36" src="https://github.com/user-attachments/assets/3a2136aa-1d11-4383-9c24-e0d0d2767723">
 
 ### Tools
 * JupyterLab notebook
