@@ -35,9 +35,6 @@ Used visual and statistical tools to understand feature relationships with the t
 - Correlation matrix to identify strong predictors of price
 - Observed patterns such as higher prices for waterfront properties, larger homes, and newer constructions
 
-<img width="591" alt="Screenshot 2024-08-26 at 10 33 36" src="https://github.com/user-attachments/assets/dcd5f92a-90f5-496b-8e1a-d2ea7f36c2db">
-<img width="580" alt="Screenshot 2024-08-26 at 10 43 36" src="https://github.com/user-attachments/assets/3a2136aa-1d11-4383-9c24-e0d0d2767723">
-
 ### Model Development
 - Trained a Linear Regression model using train/test split
 - Applied scikit-learn for model building and evaluation
